@@ -24,9 +24,10 @@
 {
     border: none;
 }
- .nav-item .navli
-{
-    text-decoration:none;
-    color:white
+.round{
+    border-radius: 10px;
 }
-
+.round_{
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
